@@ -72,7 +72,7 @@ class _MyAvail1State extends State<MyAvail1> {
           ),
           Container(padding: EdgeInsets.only(top: 30,),
             child: SizedBox(
-              height: 70,
+              height: 71,
               width: 320,
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(iconColor: Colors.white,backgroundColor: Colors.white,shape: RoundedRectangleBorder(
